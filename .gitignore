@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+venv.bak/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Media/Static (if you don't want them tracked – depends on your setup)
+media/
+staticfiles/
+static/
+
+# Local environment variables
+.env
+*.env
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
